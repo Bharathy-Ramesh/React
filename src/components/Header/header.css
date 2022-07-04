@@ -1,0 +1,53 @@
+.font-stylish{
+    font-family: 'Rubik Moonrocks', cursive;
+    color: olive;
+    font-size: 40px;
+    margin: 15px;
+}
+.header{
+    display: inline-flex;
+    flex-direction: row-reverse;
+    float: right;
+}
+.a-link{
+  text-decoration: none;
+  color:#5e5959;
+  font-size: 35px;
+}
+
+.head-tag{
+    margin:0 5px;
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 2px outset;
+}
+.side-bar{
+    margin: 10px;
+}
+
+.img-align{
+    border-radius: 50%;
+    margin: 0 20%;
+}
+
+.show-list{
+    list-style-type: none;
+}
+
+.show-list li{
+    display: block;
+    margin: 5% 30%;
+    text-decoration: none !important;
+}
+
+.show-list a{
+    text-decoration: none !important;
+    color: #212529;
+}
+
+.btn-close{
+    margin-top: -40% !important;
+}
+
+
+/* navbar */

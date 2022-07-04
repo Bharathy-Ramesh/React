@@ -1,0 +1,16 @@
+.login-form{
+    margin: 5% 35%;
+    padding: 15px;
+}
+.welcome-logo{
+    margin: 5% 30%;
+}
+
+.user-handler{
+    margin: 2% 20%;
+}
+
+.user-handler span{
+    color:olive;
+    cursor: pointer;
+}
